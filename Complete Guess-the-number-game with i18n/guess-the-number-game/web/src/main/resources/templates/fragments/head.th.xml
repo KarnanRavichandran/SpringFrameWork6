@@ -1,0 +1,6 @@
+<thlogic>
+    <attr sel="#head-frag"
+          th:fragment="headFragment"/>
+    <attr sel="#game-title"
+          th:text="#{game.title}"/>
+</thlogic>
